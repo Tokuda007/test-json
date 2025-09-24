@@ -1,6 +1,6 @@
 [{
-    "account_id": "123456",
-    "license": "AAAAAAAAAAA",
+    "account_id": "206202540",
+    "license": "123",
     "ma_period": 14,
     "touch_tolerance": 0.3,
     "trade_interval_minutes": 5,
