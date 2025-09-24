@@ -1,0 +1,16 @@
+[{
+    "license": "AAAAAAAAAAA",
+    "ma_period": 14,
+    "touch_tolerance": 0.3,
+    "trade_interval_minutes": 5,
+    "dca_distance_pips": 10,
+    "smart_tp_pips": 10
+},
+{
+    "license": "BBBBBBBBBBB",
+    "ma_period": 14,
+    "touch_tolerance": 0.3,
+    "trade_interval_minutes": 5,
+    "dca_distance_pips": 10,
+    "smart_tp_pips": 10
+}]
