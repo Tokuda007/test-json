@@ -1,7 +1,7 @@
 [{
     "account_id": "206202540",
     "license": "123",
-    "ma_period": 14,
+    "ma_period": 5,
     "touch_tolerance": 0.3,
     "trade_interval_minutes": 30,
     "dca_distance_pips": 20,
@@ -12,7 +12,7 @@
 {
     "account_id": "654321",
     "license": "BBBBBBBBBBB",
-    "ma_period": 14,
+    "ma_period": 5,
     "touch_tolerance": 0.3,
     "trade_interval_minutes": 5,
     "dca_distance_pips": 10,
