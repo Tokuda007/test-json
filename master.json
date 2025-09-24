@@ -3,7 +3,7 @@
     "license": "123",
     "ma_period": 14,
     "touch_tolerance": 0.3,
-    "trade_interval_minutes": 5,
+    "trade_interval_minutes": 30,
     "dca_distance_pips": 20,
     "smart_tp_pips": 10,
     "dca_multiplier": 1.5,
