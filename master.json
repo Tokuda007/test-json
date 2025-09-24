@@ -4,10 +4,10 @@
     "ma_period": 14,
     "touch_tolerance": 0.3,
     "trade_interval_minutes": 5,
-    "dca_distance_pips": 10,
+    "dca_distance_pips": 15,
     "smart_tp_pips": 10,
     "dca_multiplier": 1.5,
-    "dca_base_distance": 8
+    "dca_base_distance": 10
 },
 {
     "account_id": "654321",
