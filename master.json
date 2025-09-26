@@ -21,6 +21,17 @@
     "dca_base_distance": 15
 },
 {
+    "account_id": "227911231",
+    "license": "456",
+    "ma_period": 5,
+    "touch_tolerance": 0.3,
+    "trade_interval_minutes": 30,
+    "dca_distance_pips": 20,
+    "smart_tp_pips": 10,
+    "dca_multiplier": 1.5,
+    "dca_base_distance": 15
+},
+{
     "account_id": "654321",
     "license": "BBBBBBBBBBB",
     "ma_period": 5,
